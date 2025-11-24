@@ -13,7 +13,7 @@ This file handles dataset preparation. Classes are defined based on image filena
 ### train_and_eval_model.ipynb
 This file visualizes sample training images, defines the CNN architecture, and handles model training and performance evaluation. Gradient-weighted Class Activation Mapping (Grad-CAM), an explainability technique, has been added to visualize which image regions influence the model’s classification.
 
-### train_and_eval_model_outputs.ipynb
+### train_and_eval_model_output.ipynb
 This file displays the outputs from the train_and_eval_model.ipynb
 
 ## Results and Discussion
