@@ -1,7 +1,7 @@
 # Classifying_HER2_Expression
 
 ## Overview
-This project uses a convolutional neural network (CNN) to classify HER2 expression levels in H&E-stained breast cancer biopsy slides.
+This project uses a convolutional neural network (CNN) to classify HER2 expression scores (0, 1+, 2+, and 3+) in H&E-stained breast cancer biopsy slides.
 
 ## Dataset
 The dataset was obtained from the Breast Cancer Immunohistochemistry (BCI) project, and contains H&E-stained histopathology images labeled for HER2 expression: https://bupt-ai-cz.github.io/BCI/
