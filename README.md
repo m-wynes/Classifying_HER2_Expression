@@ -23,4 +23,9 @@ The validation set’s accuracy metric indicates that 88.0218% of predictions we
 
 Additionally, the Multiclass ROC Curve figures show that each class achieves an AUC score ≥ 0.95 in both the training and validation sets. This performance metric further indicates that the model performs well and can adequately predict HER2 expression levels.
 
+## Related Inference Repository
+A separate repository containing the deployment-oriented inference pipeline for this model can be found here: https://github.com/m-wynes/HER2_Classifier
+
+
+
 
